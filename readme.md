@@ -14,4 +14,4 @@ Used express and github api
 
 here's how the frontend look
 
-![frontendlook](frontend/frontend-look.png)
+![frontendlook](backend/frontend-look.png)

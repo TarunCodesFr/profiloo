@@ -6,7 +6,7 @@ I made this just cause i was bored
 
 # Frontend
 
-Used Nextjs for frontend because i am nextjs fan
+Used Nextjs for frontend because i am a nextjs fan
 
 # Backend
 
